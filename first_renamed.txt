@@ -2,3 +2,5 @@ chs,sVH<VH,hjThis is version one of the project
 
 we eill make changes here 
 in original version we will  have to write code or edit code not just simply text
+this is the bugfix edit 
+we will upload it to remote 
